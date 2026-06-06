@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="electric_blue">#FF4A6CF7</color>
+    <color name="violet">#FF8B5CF6</color>
+    <color name="coral">#FFFF6B6B</color>
+    <color name="neon_orange">#FFFF8C42</color>
+    <color name="emerald">#FF2ED573</color>
+    <color name="habit_purple">#FFA855F7</color>
+    <color name="background_light">#FFF8F9FA</color>
+    <color name="background_off_white">#FFF2F3F5</color>
+    <color name="surface_white">#FFFFFFFF</color>
+    <color name="text_primary">#FF1A1A2E</color>
+    <color name="text_secondary">#FF6B7280</color>
+    <color name="text_tertiary">#FF9CA3AF</color>
+    <color name="priority_low">#FF6B9FFF</color>
+    <color name="priority_medium">#FFFF9F43</color>
+    <color name="priority_high">#FFFF4757</color>
+    <color name="streak_orange">#FFFF8C42</color>
+    <color name="streak_gold">#FFFBBF24</color>
+</resources>

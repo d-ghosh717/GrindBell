@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GrindBell</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="tasks">Tasks</string>
+    <string name="habits">Habits</string>
+    <string name="analytics">Analytics</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_habit">Add Habit</string>
+    <string name="mark_done">Mark Done</string>
+    <string name="snooze">Snooze</string>
+    <string name="snooze_15min">Snooze 15 min</string>
+    <string name="critical_reminder">Critical Reminder</string>
+    <string name="widget_name">GrindBell Reminder</string>
+    <string name="widget_description">See your upcoming reminders at a glance</string>
+</resources>
